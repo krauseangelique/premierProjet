@@ -1,2 +1,3 @@
 # premierProjet
-seconde session  création d'une structure de fichier
+- structure de fichiers exemple
+
